@@ -13,7 +13,6 @@
 
 
 
-
 ---
 
 ## Detailed notes on importing a project
@@ -73,7 +72,3 @@ See also  [here](http://www.vogella.com/tutorials/EclipseMaven/article.html)
 ### Other IDEs
 
 IDEs normally come with support for Maven or Gradle. If not, you might have to research how it is done for your particular IDE.
-
-
-Passing in a custom logback.xml config file
-Dlogback.configurationFile=./record/logback.xml
