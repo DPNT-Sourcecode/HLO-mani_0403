@@ -1,9 +1,0 @@
-{
-  "classPath": [
-    "record-and-upload-macos-0.0.16.jar"
-  ],
-  "mainClass": "tdl.record_upload.RecordAndUploadApp",
-  "vmArgs": [
-    "-Xmx2G"
-  ]
-}
